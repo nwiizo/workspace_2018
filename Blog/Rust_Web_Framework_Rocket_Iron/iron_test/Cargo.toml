@@ -1,0 +1,8 @@
+[package]
+name = "iron_test"
+version = "0.1.0"
+authors = ["smotouchi <shuya-motouchi@gmo.jp>"]
+
+[dependencies]
+rocket="*"
+rocket_codegen="*"
