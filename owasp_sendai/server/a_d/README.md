@@ -1,11 +1,12 @@
 ### Install
 ```
-pip install -r requirements.txt
+sudo apt-get install sqlite3 libsqlite3-dev
+sudo pip install -r requirements.txt
 ```
 
 ### Start
 ```
-python3 manage.py
+python3 app.py
 ```
 
 ### Enable
@@ -29,9 +30,9 @@ systemctl stop supervisord
 /etc/supervisord.d/owasp0120.conf
 ```
 [program:owasp0120]
-command=python3 ./manage.py runserver  ; direcotryからの相対パスでOK。
-user=root
-directory=/root/
+command=python3 ./app.py runserver  ; direcotryからの相対パスでOK。
+user=****
+directory=/****/
 autorestart=true
 stdout_logfile=/var/log/supervisor/owasp.log
 stdout_logfile_maxbytes=1MB

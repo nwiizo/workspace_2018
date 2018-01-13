@@ -1,10 +1,51 @@
-from flask import Flask
-app = Flask(__name__)
+# -*- coding: utf-8 -*-
+from flask import Flask, render_template, abort, request
+from addb.models import WikiContent
+from addb.database import db_session
+from datetime import datetime
 
-@app.route('/')
-def hello_world():
-    return 'Hello, World!'
+app = Flask(__name__)
+app.config['DEBUG'] = True
+
+
+@app.teardown_request
+def shutdown_session(exception=None):
+    db_session.remove()
+
+
+@app.route("/")
+def hello():
+    contents = WikiContent.query.all()
+    return render_template("index.html", contents=contents)
+
+
+@app.route("/<title>", methods=["GET"])
+def show_content(title):
+    content = WikiContent.query.filter_by(title=title).first()
+    if content is None:
+        abort(404)
+    return render_template("show_content.html", content=content)
+
+@app.route("/<title>", methods=["POST"])
+def post_content(title=None):
+    if title is None:
+        abort(404)
+    content = WikiContent.query.filter_by(title=title).first()
+    # contentが取得できていなければinsertするため、WikiContentのインスタンスを生成
+    if content is None:
+        content = WikiContent(title,
+                              request.form["body"]
+                              )
+    # contentが取得できていればupdateするため、bodyの内容とdatetime=現在時刻をセット
+    else:
+        content.body = request.form["body"]
+        content.date = datetime.now()
+
+    # contentの内容をaddしてcommit
+    db_session.add(content)
+    db_session.commit()
+    return content.body
 
 if __name__ == '__main__':
-    app.config['DEBUG'] = True
+#   app.config['DEBUG'] = True
     app.run(host='0.0.0.0', port=8081)
