@@ -1,0 +1,20 @@
+<!doctype html>
+<title>OWASENAD</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<div class=page>
+<h1>OWASP SENDAI Attack & Defense Page</h1>
+
+ {% if session.user_id %}
+    <a href="{{ url_for('logout') }}">Sign Out</a>
+    <a href="{{ url_for('show_entries') }}">Entries</a>
+    <a href="{{ url_for('user_list') }}">Users</a>
+  {% else %}
+    <a href="{{ url_for('login') }}">Sign In</a>
+    <a href="{{ url_for('user_create') }}">Create an account</a>
+  {% endif %}
+
+  {% for message in get_flashed_messages() %}
+    <div class=flash>{{ message }}</div>
+  {% endfor %}
+  {% block body %}{% endblock %}
+</div>
