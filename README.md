@@ -3,7 +3,7 @@ workspace in 2018
 
 - [ ] I can lose weight to about 72 kg which is the proper weight.   
    - 2017.12,85kg
-   - 2018.01,
+   - 2018.01,83kg
    - 2018.02,
    - 2018.03,
    - 2018.04,
