@@ -1,0 +1,230 @@
+00000e5a0fbfde7eea886535fc1acd4e914f44d9488bf34bea09e3f8a8e7c4ef
+{'source_host': 'http://localhost:8080', 'prev_hash': '5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9', 'timestamp': 1521795072.858618, 'data': 'GMOインターネットグループ スピリットベンチャー宣言 2017.06.06 改定', 'nonce': 368723874}
+0000ba21827c98a5fdae01c4d7a23a21ce8bf4cc01f40e3451b6ce1df7fa6042
+{'source_host': 'http://localhost:8080', 'prev_hash': '00000e5a0fbfde7eea886535fc1acd4e914f44d9488bf34bea09e3f8a8e7c4ef', 'timestamp': 1521795073.774436, 'data': '世に「ベンチャー」の定義は多く存在しますが、我々の言う「ベンチャー」とは「旧来の伝統的企業に対抗して、革新的商品・サービスを提供することでお客様に『笑顔』『感動』を提供し、多くの人に尊敬され応援される、『ファン』の多い会社を作る・・・そんな『志』＝『夢』を実現させるために、革新的なスピード・着眼点・手段・頭脳によって、リスクを恐れず突き進む者の集団」を指します。', 'nonce': 9317695905}
+000003c7fa3978071b0380fb9287c40ad63c70842f6b7af3c363df8ed4feb4b6
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000ba21827c98a5fdae01c4d7a23a21ce8bf4cc01f40e3451b6ce1df7fa6042', 'timestamp': 1521795076.82064, 'data': '我々は、スピリットベンチャー宣言を憲法や聖書のように共有し、これをベースに一人ひとりが個性を発揮します', 'nonce': 3277335245}
+0000d57e050dce3a2183682361ec23ec70dbc462d49e31f6a05b369469539d8c
+{'source_host': 'http://localhost:8080', 'prev_hash': '000003c7fa3978071b0380fb9287c40ad63c70842f6b7af3c363df8ed4feb4b6', 'timestamp': 1521795076.938715, 'data': '1995年の創業以来、我々が培ったマインドをここに宣言します。', 'nonce': 8697236175}
+0000e9072f2009e27512b66e99a5141c5d62919cb7d97e86139aeb90286e6803
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000d57e050dce3a2183682361ec23ec70dbc462d49e31f6a05b369469539d8c', 'timestamp': 1521795078.564507, 'data': '我々は「ベンチャー」である。技術力や経営手法がクローズアップされる企業は数多くありますが、真の「ベンチャー」の優位性はスピリットの共有にあります。テクニックやスキル、マニュアルを偏重する旧来の経営手法においては、理論的に経営資源を扱ってきました。人も同様、基本的には性悪説に基づき利益と恐怖による統制が原則と考えられてきたのです。', 'nonce': 3950220312}
+00009e8627763a606cce46b20a590cbcdbed3765fb04f64fb72ff95283f06016
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000e9072f2009e27512b66e99a5141c5d62919cb7d97e86139aeb90286e6803', 'timestamp': 1521795078.697819, 'data': 'しかしながら、もっとも根本的な経営資源である人間は、感情の生き物であり、本人次第でその生産性は数倍、さらにチームオペレーションの相乗効果を考えると数十倍もの相違が出てきます。すばらしいスピリットを共有し、グループ一丸となり大いなる夢を実現していく。真の「ベンチャー」の、他社とは違うスピード感はここから生まれます。', 'nonce': 4252332486}
+000007068b7aafc240b38937b6705c86eacf1352f53749c66ad52b1508704db5
+{'source_host': 'http://localhost:8080', 'prev_hash': '00009e8627763a606cce46b20a590cbcdbed3765fb04f64fb72ff95283f06016', 'timestamp': 1521795078.747747, 'data': 'GMOインターネットグループの仲間は、やる気と能力がフルに発揮される真の感動集団として、人と企業と社会をつなぎ、成長していきましょう。我々が共有すべきスピリットは以下の通りです。', 'nonce': 6660740284}
+00004521b4d8236d51b7d2786d77009de58135a2ae07eae2c31bb9b1a0b4d95d
+{'source_host': 'http://localhost:8080', 'prev_hash': '000007068b7aafc240b38937b6705c86eacf1352f53749c66ad52b1508704db5', 'timestamp': 1521795079.106601, 'data': '夢', 'nonce': 1041183233}
+00001c738ae0a47c0a97d1a19a404071a591164dc7a596e7b781510000ac81dd
+{'source_host': 'http://localhost:8080', 'prev_hash': '00004521b4d8236d51b7d2786d77009de58135a2ae07eae2c31bb9b1a0b4d95d', 'timestamp': 1521795080.222941, 'data': '人生を何に捧げるのか', 'nonce': 4156287020}
+00006d6c6a1492095ade7e1adbd9ab411e44d188f9f9f6af90d72c76b3000a2e
+{'source_host': 'http://localhost:8080', 'prev_hash': '00001c738ae0a47c0a97d1a19a404071a591164dc7a596e7b781510000ac81dd', 'timestamp': 1521795081.929365, 'data': 'インターネットの産業の中で圧倒的"一番"になる。', 'nonce': 4700227041}
+00003a8f21f67961cc23c8abef899d62b0b6dc878a0585bb9a3963b1fa620d7f
+{'source_host': 'http://localhost:8080', 'prev_hash': '00006d6c6a1492095ade7e1adbd9ab411e44d188f9f9f6af90d72c76b3000a2e', 'timestamp': 1521795082.321638, 'data': '幸せになろう、成功しよう、"一番"になろう。', 'nonce': 3279046610}
+0000db598da8f0af95c855ae1c47bde1138d4c6581a95300323590602bb574ed
+{'source_host': 'http://localhost:8080', 'prev_hash': '00003a8f21f67961cc23c8abef899d62b0b6dc878a0585bb9a3963b1fa620d7f', 'timestamp': 1521795082.563974, 'data': '私たちにとっての幸せとは、心の平和、満足感、目標を達成した時の喜び。', 'nonce': 372423095}
+0000a240babde198f4e7dc2e1e5194cc8bcd84050a6495ad5aac8de5370abedc
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000db598da8f0af95c855ae1c47bde1138d4c6581a95300323590602bb574ed', 'timestamp': 1521795082.692038, 'data': '私たちにとっての成功とは、物・心ともに豊かで、「笑顔」「感動」を産みだしながら、人生を全うすること。', 'nonce': 109953173}
+000081c1356384741976b05f8940f5710d626108e1fb2dc94e6410eceb8897e5
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a240babde198f4e7dc2e1e5194cc8bcd84050a6495ad5aac8de5370abedc', 'timestamp': 1521795084.761291, 'data': '私たちにとっての"一番"とは、他との比較ではなく、自分に勝つこと。', 'nonce': 1099214504}
+0000156712d84cfa319d5c4787f5b7fa8f1a03afe5c3a38a201108625cd305c7
+{'source_host': 'http://localhost:8080', 'prev_hash': '000081c1356384741976b05f8940f5710d626108e1fb2dc94e6410eceb8897e5', 'timestamp': 1521795088.09651, 'data': '「すべての人にインターネット」', 'nonce': 7224515184}
+00006c845dd5f2688e82f2c9ee5c002250551aea130712dba3b41042a600281a
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000156712d84cfa319d5c4787f5b7fa8f1a03afe5c3a38a201108625cd305c7', 'timestamp': 1521795088.312046, 'data': '健康・精神・教養の基礎レベル、社会生活・家庭生活の実現レベル、経済の結果レベル、', 'nonce': 9707377944}
+00007f40c2b601f0e1aa0d703170508b829fbed1a883a5eb79418828a724aa88
+{'source_host': 'http://localhost:8080', 'prev_hash': '00006c845dd5f2688e82f2c9ee5c002250551aea130712dba3b41042a600281a', 'timestamp': 1521795088.529673, 'data': 'すべてのエリアでバランスが取れた全人を目指そう。', 'nonce': 4015996349}
+0000a21162b22820f0c31082cb6143463572aeae4b4ab13e008c819d509eb47a
+{'source_host': 'http://localhost:8080', 'prev_hash': '00007f40c2b601f0e1aa0d703170508b829fbed1a883a5eb79418828a724aa88', 'timestamp': 1521795089.225673, 'data': 'その全エリアにて我々は夢を持つ。', 'nonce': 87989733}
+00007c12724224a368957a59395e68dbadaedab969a54f1ea2e8679665f3c19d
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a21162b22820f0c31082cb6143463572aeae4b4ab13e008c819d509eb47a', 'timestamp': 1521795089.582405, 'data': 'その社会生活＝仕事の夢を共有しよう。', 'nonce': 5003388427}
+0000f3c69d4877a7fed185c0b46bdb8c6a6be1e5ad7b70a626b2ce2d778c0115
+{'source_host': 'http://localhost:8080', 'prev_hash': '00007c12724224a368957a59395e68dbadaedab969a54f1ea2e8679665f3c19d', 'timestamp': 1521795094.085282, 'data': '仕事の夢は"一番"になること。', 'nonce': 6165211951}
+000083ed10127112df9e048ba2c9a59cf00caec2b684c9a44832a0a8cce74afa
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000f3c69d4877a7fed185c0b46bdb8c6a6be1e5ad7b70a626b2ce2d778c0115', 'timestamp': 1521795094.286348, 'data': 'ヴィジョン', 'nonce': 4067980090}
+000073b0c245e54bb8c9156e8147cf88566df586ab6b09fade419c1810fdb7cd
+{'source_host': 'http://localhost:8080', 'prev_hash': '000083ed10127112df9e048ba2c9a59cf00caec2b684c9a44832a0a8cce74afa', 'timestamp': 1521795094.778085, 'data': '宝の山はどこにあるのか', 'nonce': 4359882204}
+0000cc11e29935ddfae223e710b4c76c6e217cc0f548e5f9836d01a94aa6d805
+{'source_host': 'http://localhost:8080', 'prev_hash': '000073b0c245e54bb8c9156e8147cf88566df586ab6b09fade419c1810fdb7cd', 'timestamp': 1521795096.072048, 'data': 'デジタル情報革命が進行する中で、インターネットのインフラ・サービスインフラ、すなわちインターネットの"場"の提供に経営資源を集中し、多くのファンの「笑顔」「感動」と、その結果としての大きな利益を生む。', 'nonce': 4694662952}
+00003db66298f336d2ce1c483d3f64fa2a9e51ccfb36bcbdc32f27d2accce520
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000cc11e29935ddfae223e710b4c76c6e217cc0f548e5f9836d01a94aa6d805', 'timestamp': 1521795097.313418, 'data': 'フィロソフィー', 'nonce': 3647585125}
+000057dd0f7df8cf5529d25649c7871afd2fe530ce6f194dd6e915338cbe0225
+{'source_host': 'http://localhost:8080', 'prev_hash': '00003db66298f336d2ce1c483d3f64fa2a9e51ccfb36bcbdc32f27d2accce520', 'timestamp': 1521795097.843436, 'data': '何のために存在するのか', 'nonce': 1805866999}
+0000da9a2cef615418393cf160d4f78537d9ebd6a5d1c1c59f9220359ee8b5e2
+{'source_host': 'http://localhost:8080', 'prev_hash': '000057dd0f7df8cf5529d25649c7871afd2fe530ce6f194dd6e915338cbe0225', 'timestamp': 1521795097.929102, 'data': '我々の活動はインターネットを豊かに楽しくし、新たなインターネットの文化・産業とお客様の「笑顔」「感動」を創造し、社会と人々に貢献する。', 'nonce': 976691817}
+00009e01c8d921fe541527e2fcfb350df5e19e6ed7a29bb579c78cb50b50650d
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000da9a2cef615418393cf160d4f78537d9ebd6a5d1c1c59f9220359ee8b5e2', 'timestamp': 1521795098.691799, 'data': '経営マインド', 'nonce': 4988031662}
+000064958073907e2e3518c27ebee542d841e52b8e3dd2c4672ef4167827b51d
+{'source_host': 'http://localhost:8080', 'prev_hash': '00009e01c8d921fe541527e2fcfb350df5e19e6ed7a29bb579c78cb50b50650d', 'timestamp': 1521795101.082933, 'data': '基本行動原理・原則', 'nonce': 8564789190}
+0000f0061fcbf4974e6745bf2c2ead1c4a73eaffdc650c6018385d1d2ecd25f8
+{'source_host': 'http://localhost:8080', 'prev_hash': '000064958073907e2e3518c27ebee542d841e52b8e3dd2c4672ef4167827b51d', 'timestamp': 1521795101.204744, 'data': '【 前提 】', 'nonce': 4758339910}
+00006c8c0b2aff8a48a551648ef96d23b56f826dfcd18291f2a140969dd36124
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000f0061fcbf4974e6745bf2c2ead1c4a73eaffdc650c6018385d1d2ecd25f8', 'timestamp': 1521795102.937078, 'data': 'インターネット産業で"一番"になろう。"一番"になれないことはやらない。', 'nonce': 2829524082}
+00006bc8e1b2239cce729a57cffc8d56e9b0f5eff13974f519a0250b9738f964
+{'source_host': 'http://localhost:8080', 'prev_hash': '00006c8c0b2aff8a48a551648ef96d23b56f826dfcd18291f2a140969dd36124', 'timestamp': 1521795103.963311, 'data': '夢、ヴィジョン、フィロソフィー、経営マインド、経営目標に賛同できる"人財"のみで組織する。', 'nonce': 5847569561}
+0000211ba9f7c328081cf2ae93b400858e2085477abf8ff55f736f541cbd4dbb
+{'source_host': 'http://localhost:8080', 'prev_hash': '00006bc8e1b2239cce729a57cffc8d56e9b0f5eff13974f519a0250b9738f964', 'timestamp': 1521795104.508765, 'data': 'GMOインターネットグループにあるすべての定量的目標は、55ヵ年計画に基づいて計画する。', 'nonce': 5863873622}
+0000717dca7831cc3d4c8a9e7ef4b6e0059b1cadda6e683bf4f167d66056eb0a
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000211ba9f7c328081cf2ae93b400858e2085477abf8ff55f736f541cbd4dbb', 'timestamp': 1521795108.093395, 'data': '目標達成は「目標達成10箇条」、マーケティングは「ランチェスター戦略」をベースに行動する。', 'nonce': 2641586360}
+0000650515190b3ca09669d3532b0a510d414b5c2ba150858ae9e1d38ca91d9e
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000717dca7831cc3d4c8a9e7ef4b6e0059b1cadda6e683bf4f167d66056eb0a', 'timestamp': 1521795108.113435, 'data': 'デジタル情報革命!! 数百年に一度の産業革命に遭遇したことを認識し、感動し、チャンスをつかもう!!', 'nonce': 731426471}
+00001002399f84c283efb38d252beb07adb7ac996aacc354665e41f838683910
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000650515190b3ca09669d3532b0a510d414b5c2ba150858ae9e1d38ca91d9e', 'timestamp': 1521795110.52256, 'data': '我々がインターネットに初めてつながり、触れたあの時の感動を思い出そう!!', 'nonce': 3075665321}
+0000434ffb79ce8507023a5c20190fd17df659bac347617cf00b72e14ae8176b
+{'source_host': 'http://localhost:8080', 'prev_hash': '00001002399f84c283efb38d252beb07adb7ac996aacc354665e41f838683910', 'timestamp': 1521795110.523988, 'data': '世界を見よう、そして新しい技術・新しい価値・新しいコンセプトをすべての人に使い易く便利に提供する!!', 'nonce': 8812940084}
+00003fbb08023346b86e545a6de62ab730eaf6c0375a17b62460980c25cedbb0
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000434ffb79ce8507023a5c20190fd17df659bac347617cf00b72e14ae8176b', 'timestamp': 1521795110.551111, 'data': '我々は、『インターネットを広め、多くの「笑顔」「感動」を産む』使命を背負っていることを認識しよう。', 'nonce': 6285420502}
+000044433969c7742df94ccbf1dcdc09b7ca2d9f83c74ae89d1a9c516b2278fc
+{'source_host': 'http://localhost:8080', 'prev_hash': '00003fbb08023346b86e545a6de62ab730eaf6c0375a17b62460980c25cedbb0', 'timestamp': 1521795110.748072, 'data': '我々の提供するサービス･商品は、すべてのスペック・価格・デザインで競合より勝（まさ）り、ナンバーワンでなければならない。', 'nonce': 2835878717}
+00003e0d0055b3c5d59df285afb98da925ddc1b02b977959371a700098690a3d
+{'source_host': 'http://localhost:8080', 'prev_hash': '000044433969c7742df94ccbf1dcdc09b7ca2d9f83c74ae89d1a9c516b2278fc', 'timestamp': 1521795111.979167, 'data': '強いところはより強く、弱いところはナンバーワンの商材を持つ。', 'nonce': 2873201920}
+0000e5b59611db489c7f0a3e66ce3ee358dd0c746297de1f261deba26f8a3ac9
+{'source_host': 'http://localhost:8080', 'prev_hash': '00003e0d0055b3c5d59df285afb98da925ddc1b02b977959371a700098690a3d', 'timestamp': 1521795112.875725, 'data': 'ビジネスは、戦（いくさ）である。誇りとナンバーワンのサービスを武器に感動を売ろう。そしてお客様の笑顔の領地を広げよう。', 'nonce': 2794887679}
+0000a4136cd967d667b8cd4b7f3c5b36628328883d98534be162fce4cfd59b9c
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000e5b59611db489c7f0a3e66ce3ee358dd0c746297de1f261deba26f8a3ac9', 'timestamp': 1521795116.500065, 'data': 'インターネットの時代は共感の時代。変化し続け共感される人格・社格に成長しよう。', 'nonce': 2680602818}
+0000a93753d47bba0c808c70d550d0faca4b86c15fb96d354adac10b6de0fbaa
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a4136cd967d667b8cd4b7f3c5b36628328883d98534be162fce4cfd59b9c', 'timestamp': 1521795117.375073, 'data': '共感の方程式は、論理×感情。ナンバーワン商品に加え、ナンバーワンクリエイティブが大切。', 'nonce': 3291750235}
+0000fb027d071908b8a5a1e3c25c17dfc4dfa40c36cf5547c3dd6a6c6a6ca2fb
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a93753d47bba0c808c70d550d0faca4b86c15fb96d354adac10b6de0fbaa', 'timestamp': 1521795117.933543, 'data': '会社は、仲間・株主・お客様、かかわるすべての方が幸せになるための道具です。バロメーターは笑顔です。', 'nonce': 6215167147}
+0000fa517c4f414f4fb55ffb100df59f6e12eadd04649b51cb031cac54ba31b9
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000fb027d071908b8a5a1e3c25c17dfc4dfa40c36cf5547c3dd6a6c6a6ca2fb', 'timestamp': 1521795118.265954, 'data': 'お客様はもちろん、すべての方との接点で最高のおもてなしをし、ファンになってもらおう。', 'nonce': 5465627534}
+0000a3410c84e1c783e09f6900bb11619ff811a95b5e9f4d23e8aa90315ff4e6
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000fa517c4f414f4fb55ffb100df59f6e12eadd04649b51cb031cac54ba31b9', 'timestamp': 1521795118.641052, 'data': '我々は、物質的・精神的な幸せをつかむチャンスが目の前にあることを認識しよう。', 'nonce': 9230934017}
+0000485dc0f035b68dabd13baa8f0f2afc0c7c3ef0ab1ab0fc9445ef67b0e94f
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a3410c84e1c783e09f6900bb11619ff811a95b5e9f4d23e8aa90315ff4e6', 'timestamp': 1521795121.383552, 'data': '人種・国籍・性別・学歴・言葉・宗教、すべての差別を排除する。実力本位。', 'nonce': 1378357157}
+0000308729af03754425e3159c158720a27af72413eef088b7144adcddf49b3a
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000485dc0f035b68dabd13baa8f0f2afc0c7c3ef0ab1ab0fc9445ef67b0e94f', 'timestamp': 1521795122.494214, 'data': '"一番"であり続けるために、「エンジニア」と「クリエイター」が自然と集まり、互いに切磋琢磨できるような、仕組み・環境を整備しよう。', 'nonce': 4337571543}
+0000536645eae9b4ab84f32677a515f5895b77c8d3b593c3e3e9366ccd0e0c1a
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000308729af03754425e3159c158720a27af72413eef088b7144adcddf49b3a', 'timestamp': 1521795122.679533, 'data': '「エンジニア」「クリエイター」はグループの宝。新しい価値を創造し、育てることができる仲間たちを尊敬しよう。', 'nonce': 4363109663}
+0000206000106d47e016a215ae3dfd26ccead61037c19c20000c6bb4f6aca620
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000536645eae9b4ab84f32677a515f5895b77c8d3b593c3e3e9366ccd0e0c1a', 'timestamp': 1521795124.214767, 'data': 'すべてを最高にカッコよく！美しく！気持ちよく！', 'nonce': 8951621587}
+000041dbafeb61797eb08ef9e4819ae650b7a5d1e3b9afc53be4dd34d04dc94a
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000206000106d47e016a215ae3dfd26ccead61037c19c20000c6bb4f6aca620', 'timestamp': 1521795124.312682, 'data': '【 精神面 】', 'nonce': 5878877907}
+000075c8013f1c4e56a8ee0d7b42815d975e05ba40e6ff3facce69b28e69f1e2
+{'source_host': 'http://localhost:8080', 'prev_hash': '000041dbafeb61797eb08ef9e4819ae650b7a5d1e3b9afc53be4dd34d04dc94a', 'timestamp': 1521795124.789737, 'data': 'スピード経営。ポイント集中。商いは飽きない。', 'nonce': 6921746766}
+000063448300e5544fcbea4d662e6e79000b18f12ff7416cebae25e2cbf4c2de
+{'source_host': 'http://localhost:8080', 'prev_hash': '000075c8013f1c4e56a8ee0d7b42815d975e05ba40e6ff3facce69b28e69f1e2', 'timestamp': 1521795126.224715, 'data': 'S・K・K・R精神を徹底する。', 'nonce': 9937501102}
+0000bf0a7026503be9ef1989a3954d6caef7b33a1c211b61761440861e13c404
+{'source_host': 'http://localhost:8080', 'prev_hash': '000063448300e5544fcbea4d662e6e79000b18f12ff7416cebae25e2cbf4c2de', 'timestamp': 1521795126.543937, 'data': '積極的(S) 前向きに', 'nonce': 4854069044}
+000011ac63407a78e53c7325a656fd331f33362853bd8ab9570a1ba9ab0c41d7
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000bf0a7026503be9ef1989a3954d6caef7b33a1c211b61761440861e13c404', 'timestamp': 1521795127.845234, 'data': '協力的(K) 仲間で', 'nonce': 6217627732}
+0000fb098f872eb1a3cb31a1cff128e90bb691e84e03bb1a4abd0738b7e89662
+{'source_host': 'http://localhost:8080', 'prev_hash': '000011ac63407a78e53c7325a656fd331f33362853bd8ab9570a1ba9ab0c41d7', 'timestamp': 1521795128.674519, 'data': '肯定的(K) できるから入る', 'nonce': 5757982339}
+0000df122f0d8237e42c2ee5eef95262863ee38cf510df7a94dfde9813a37f64
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000fb098f872eb1a3cb31a1cff128e90bb691e84e03bb1a4abd0738b7e89662', 'timestamp': 1521795131.744516, 'data': '楽観的(R) すべてを良い方向に考える（プラス思考）', 'nonce': 4947931729}
+0000bfb7d8b1f922f088921a4447da858309a91296632edb1f5bfb0e0230a48c
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000df122f0d8237e42c2ee5eef95262863ee38cf510df7a94dfde9813a37f64', 'timestamp': 1521795132.567654, 'data': '優先順位・優先順位・優先順位。「売上向上・経費節約」、「緊急度・重要度」、2つのマトリックスで考えよう。', 'nonce': 3319738044}
+000097da29c36fe0a0b6e7c94e74b3ec42a18d7831fa93020a02f82019d47cca
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000bfb7d8b1f922f088921a4447da858309a91296632edb1f5bfb0e0230a48c', 'timestamp': 1521795132.585662, 'data': '率先垂範。心が動けば、体も動く。', 'nonce': 905676802}
+0000dbbc31cf4c754455d0fa65acd60ea93838248e355b137f5533a5787c3a91
+{'source_host': 'http://localhost:8080', 'prev_hash': '000097da29c36fe0a0b6e7c94e74b3ec42a18d7831fa93020a02f82019d47cca', 'timestamp': 1521795136.373048, 'data': '生きているのではなく生かされている。すべてのことに感謝しよう。', 'nonce': 5966758913}
+00009c39b497276f175de225c6f2c02a1a415876035a52b45ec7002b0cd02e8d
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000dbbc31cf4c754455d0fa65acd60ea93838248e355b137f5533a5787c3a91', 'timestamp': 1521795136.568444, 'data': '結論ファースト。', 'nonce': 9062107261}
+0000fd6e4a602f0d390c7ba29552fc4b4cd6c014a440385ac0b939969b44658c
+{'source_host': 'http://localhost:8080', 'prev_hash': '00009c39b497276f175de225c6f2c02a1a415876035a52b45ec7002b0cd02e8d', 'timestamp': 1521795136.792607, 'data': 'GMOインターネットグループの仲間は皆ファミリーです。思いやりと優しさを持ち、グループ会社、仲間、パートナー、メンバーと呼ぼう。', 'nonce': 3013167774}
+000054e5eb3b566c7f880c365f408cd1a0cbbb242158c53ed8889a87b4e23b80
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000fd6e4a602f0d390c7ba29552fc4b4cd6c014a440385ac0b939969b44658c', 'timestamp': 1521795141.251082, 'data': '困った時には早めに相談しよう。相談されたら、わかることは一言でも教えよう。', 'nonce': 1162624639}
+00002a9c91cdeb33839377eb853852b5e2bc904f799534bd3290f5a1eddb91cc
+{'source_host': 'http://localhost:8080', 'prev_hash': '000054e5eb3b566c7f880c365f408cd1a0cbbb242158c53ed8889a87b4e23b80', 'timestamp': 1521795141.94133, 'data': '明るく、にこにこ、大きな声。GMOインターネットグループの特徴です。', 'nonce': 2394184164}
+000078203c9bd7a229d40b369459a0b8a2e73ccb0bf96e71b16997bb5c2775b4
+{'source_host': 'http://localhost:8080', 'prev_hash': '00002a9c91cdeb33839377eb853852b5e2bc904f799534bd3290f5a1eddb91cc', 'timestamp': 1521795144.450532, 'data': '挨拶は「笑顔」の始まり。お客様・仲間への挨拶は元気よく大きな声。挨拶でもナンバーワンのグループにしよう。', 'nonce': 8870634929}
+00006c7f97b622d1915d660710f95e85a00b6aeee0b41431434df31b3bf6a51d
+{'source_host': 'http://localhost:8080', 'prev_hash': '000078203c9bd7a229d40b369459a0b8a2e73ccb0bf96e71b16997bb5c2775b4', 'timestamp': 1521795144.490235, 'data': '自らが生きている喜びと、感謝され「笑顔」「感動」がある喜びを深く噛み締め理解しよう。', 'nonce': 6199744658}
+0000551a7105bfa0a603e8eba4dde08d185e80b5bdb74cc0af79367f17aa30b2
+{'source_host': 'http://localhost:8080', 'prev_hash': '00006c7f97b622d1915d660710f95e85a00b6aeee0b41431434df31b3bf6a51d', 'timestamp': 1521795147.652058, 'data': '自らの間違いや失敗に気づいた時は、素直に謝ろう。', 'nonce': 1977482095}
+0000e4c61033b3f916568d98761c4e5b51ed680007abfa55aaa06ad4bced8e70
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000551a7105bfa0a603e8eba4dde08d185e80b5bdb74cc0af79367f17aa30b2', 'timestamp': 1521795150.409551, 'data': '困難は成長のための試練である。チャンスと捉え、立ち向かおう。', 'nonce': 2341049463}
+00008645bea1177fe7f0da119f12f68e9fd51911463ad09922299955596097e1
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000e4c61033b3f916568d98761c4e5b51ed680007abfa55aaa06ad4bced8e70', 'timestamp': 1521795150.715536, 'data': '【 教養面 】', 'nonce': 6259833631}
+00005cc9f6a87dee764e0018a224c9a8031a3c55b7afcc89436865c9edc33e90
+{'source_host': 'http://localhost:8080', 'prev_hash': '00008645bea1177fe7f0da119f12f68e9fd51911463ad09922299955596097e1', 'timestamp': 1521795151.219038, 'data': '企業は人を育てる場所である。', 'nonce': 2297805800}
+0000d86b35183718b210ae31a269364e9e86cf45889c21ecdd767526e422c8b0
+{'source_host': 'http://localhost:8080', 'prev_hash': '00005cc9f6a87dee764e0018a224c9a8031a3c55b7afcc89436865c9edc33e90', 'timestamp': 1521795151.55498, 'data': '比較は知恵の始まり。調査しよう。研究しよう。勉強しよう。不可能は無い。', 'nonce': 204638242}
+000063ea0fc0952be920ab2fd9943721a6a3e473ab8036a0258e1921277be8bb
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000d86b35183718b210ae31a269364e9e86cf45889c21ecdd767526e422c8b0', 'timestamp': 1521795153.346384, 'data': '研修・教育を徹底しよう。', 'nonce': 1664585824}
+0000876bcb0b6ff4416d196510ae1d25196eb2c67895f2f04a21f518259e5026
+{'source_host': 'http://localhost:8080', 'prev_hash': '000063ea0fc0952be920ab2fd9943721a6a3e473ab8036a0258e1921277be8bb', 'timestamp': 1521795153.793136, 'data': 'メモしよう。情報・調査資料・すべてのデータはNASAシステムで、みんなと共有しよう。情報は分かちあおう。', 'nonce': 5905417333}
+00003b24c2d6a8392155aa392a71d962b3da28b304db01c9bf6d7ad2d83349e8
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000876bcb0b6ff4416d196510ae1d25196eb2c67895f2f04a21f518259e5026', 'timestamp': 1521795158.991622, 'data': '【 目標面 】', 'nonce': 5428896838}
+000029790a2bf60f02576b92fd8cd096042250eb045cb65a065caa7b8da6da25
+{'source_host': 'http://localhost:8080', 'prev_hash': '00003b24c2d6a8392155aa392a71d962b3da28b304db01c9bf6d7ad2d83349e8', 'timestamp': 1521795159.262067, 'data': '目標とは(1)55ヵ年計画に基づく売上・利益と数値化された行動、(2)スピリットベンチャー宣言の共有、(3)結果としての「笑顔」「感動」で構成される。', 'nonce': 8357478922}
+0000cb7b7c4289081e34bfefd8885872be8e9163ba636ed6b401d5d08fd144f9
+{'source_host': 'http://localhost:8080', 'prev_hash': '000029790a2bf60f02576b92fd8cd096042250eb045cb65a065caa7b8da6da25', 'timestamp': 1521795159.740824, 'data': '目標を立て、目標に向かって走る"人財"で組織する。', 'nonce': 6720557772}
+000007faecdcbb4f39e2d9f4c308692da4d0fe4bc122fa5add487d2a37eaeecc
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000cb7b7c4289081e34bfefd8885872be8e9163ba636ed6b401d5d08fd144f9', 'timestamp': 1521795161.095289, 'data': '期限の無い目標は無い。期限を設定することで雑用が仕事になる。', 'nonce': 371881197}
+000042cc29eaf194aa93a24ce8e4e8921be8cb21a13bb979eaf19473fcadb07d
+{'source_host': 'http://localhost:8080', 'prev_hash': '000007faecdcbb4f39e2d9f4c308692da4d0fe4bc122fa5add487d2a37eaeecc', 'timestamp': 1521795162.441455, 'data': '期限は「今日中」「今週中」などの曖昧な表現を使わず、「何日何時何分まで」と明確に決めよう。', 'nonce': 2824414806}
+0000a0216072c328c9afd31e1e3d46119f3d35c5bf6b82ff552f901fa3652ed0
+{'source_host': 'http://localhost:8080', 'prev_hash': '000042cc29eaf194aa93a24ce8e4e8921be8cb21a13bb979eaf19473fcadb07d', 'timestamp': 1521795165.426969, 'data': '目標は数字で管理する。数字は毎日確認する。数字は毎日提供する。', 'nonce': 4177495132}
+0000033848f6cc7b4a70e78c042c1e8e9ea0f29a1261757b59fa3b04e0f9ac16
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a0216072c328c9afd31e1e3d46119f3d35c5bf6b82ff552f901fa3652ed0', 'timestamp': 1521795168.580812, 'data': '稼いでいる金額ではなく、成長と目標達成が評価の基準。', 'nonce': 6936270583}
+000019a934bcd18a56b40dcdab5e1655e1ee6ebca96ecc6289bebe14f0031935
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000033848f6cc7b4a70e78c042c1e8e9ea0f29a1261757b59fa3b04e0f9ac16', 'timestamp': 1521795169.783046, 'data': '目標に対して生まれた結果は、達成・未達にかかわらず自分の結果として受け止めよう。', 'nonce': 7014898002}
+0000ce1dd69eb815219a939f98c9d76c7d3ba15c8c847466f5face4202cf3c93
+{'source_host': 'http://localhost:8080', 'prev_hash': '000019a934bcd18a56b40dcdab5e1655e1ee6ebca96ecc6289bebe14f0031935', 'timestamp': 1521795171.148106, 'data': '【 ノウハウ 】', 'nonce': 1216200443}
+00001ee3b58a236f5406abc3fb625b686e627a546a75e3fe8ba9052a3ca98ccb
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000ce1dd69eb815219a939f98c9d76c7d3ba15c8c847466f5face4202cf3c93', 'timestamp': 1521795172.112501, 'data': '既成概念にとらわれない、最新の技術・価値観・ノウハウを武器に運営する。', 'nonce': 7845843533}
+0000d4e98f19cabf1d87a3b818a9d0a9591a86753bfed4c62679b8685e48db2a
+{'source_host': 'http://localhost:8080', 'prev_hash': '00001ee3b58a236f5406abc3fb625b686e627a546a75e3fe8ba9052a3ca98ccb', 'timestamp': 1521795174.114091, 'data': 'すべての行動にインセンティブゲームの発想を導入しよう。', 'nonce': 8637381382}
+000000617da2b7cb619bbc84dda32883013a00540ee846d53ff4ffc804615a32
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000d4e98f19cabf1d87a3b818a9d0a9591a86753bfed4c62679b8685e48db2a', 'timestamp': 1521795174.116049, 'data': '競合は毎日チェックしよう。差別化攻撃を仕掛けられたら、即日ミートし撃破しよう。', 'nonce': 5261907878}
+0000f64e438c76dd1851b5cc73f16830ba9d9a7d906fefed393bf53181400e1d
+{'source_host': 'http://localhost:8080', 'prev_hash': '000000617da2b7cb619bbc84dda32883013a00540ee846d53ff4ffc804615a32', 'timestamp': 1521795174.841587, 'data': 'ミートとは、競合のスペック・価格より、少しでも優位にした商品を提供すること。', 'nonce': 856782952}
+00006ab797efe1bdc8c2a85c2b893a4b5818616fcd19e31b21182ea3afc79c32
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000f64e438c76dd1851b5cc73f16830ba9d9a7d906fefed393bf53181400e1d', 'timestamp': 1521795175.141829, 'data': 'すぐに提供できない場合、期限を明確にした提供予告を発表しよう。"茹で蛙防止！"', 'nonce': 8726094644}
+0000bc6ff8e2bdaf21f9027dcdf4480c631406d743f1b38c9a93a7b6274fe0a5
+{'source_host': 'http://localhost:8080', 'prev_hash': '00006ab797efe1bdc8c2a85c2b893a4b5818616fcd19e31b21182ea3afc79c32', 'timestamp': 1521795175.843158, 'data': '広告・Webサイトの改善点、営業窓口・電話・メールに届くお客様の声・クレーム、すべてのヒントは現場にある。', 'nonce': 636883973}
+000071c8140cc80123ef004b77570b8dfbf4e2b6a644681ed9064124182693d2
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000bc6ff8e2bdaf21f9027dcdf4480c631406d743f1b38c9a93a7b6274fe0a5', 'timestamp': 1521795177.364737, 'data': '報告された経営数字の異常は現場に立ち返って判断しよう。', 'nonce': 6335371699}
+0000a141121ee1eeefec80d1a5bf42ffd7824a737dc5766a1bf25483a0aac89e
+{'source_host': 'http://localhost:8080', 'prev_hash': '000071c8140cc80123ef004b77570b8dfbf4e2b6a644681ed9064124182693d2', 'timestamp': 1521795179.128509, 'data': 'サービスを「集客」「利用開始」「継続」「紹介」「収益」などの[AARRR(アー)モデル]に因数分解し、数字はリアルタイムにグラフ化・可視化しよう。', 'nonce': 4655824430}
+0000297923fbdb509bda781f010c7c1cd2015154c292aea55036e81322894b25
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a141121ee1eeefec80d1a5bf42ffd7824a737dc5766a1bf25483a0aac89e', 'timestamp': 1521795180.588823, 'data': 'グラフから仮説を立て、超高速でABテストを繰り返し、改善（＝PDCA）しよう。', 'nonce': 3566038641}
+0000a70661ec96562ceae5581964f75c1479a9289b6e45d0ca214addf094f07c
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000297923fbdb509bda781f010c7c1cd2015154c292aea55036e81322894b25', 'timestamp': 1521795183.001573, 'data': '改善スピードを改善しよう。日々1000分の1の改善が1年後には1.5倍の成果になる。', 'nonce': 4074527168}
+0000866ff763cda22f8fc8132778175d054ab96200c5208c9726d678b3c16438
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a70661ec96562ceae5581964f75c1479a9289b6e45d0ca214addf094f07c', 'timestamp': 1521795185.909375, 'data': 'ターゲットは未開の市場、組織理論・運営ノウハウを蓄積する。', 'nonce': 8881280469}
+00008328f97ba8b845ab677a0e793f30544496fbf1ec458a2b66cf0a4e4799ce
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000866ff763cda22f8fc8132778175d054ab96200c5208c9726d678b3c16438', 'timestamp': 1521795186.271068, 'data': '組織が自ら動くように、仕組み・ルールを研究しよう。', 'nonce': 5416692264}
+00007d623ac186de315e9f10c98a5e7960d64fa67a32b7d477ca77fec938ae09
+{'source_host': 'http://localhost:8080', 'prev_hash': '00008328f97ba8b845ab677a0e793f30544496fbf1ec458a2b66cf0a4e4799ce', 'timestamp': 1521795188.006406, 'data': '組織力は徹底力、徹底力は組織力。', 'nonce': 494120947}
+00008be4a94e03489743bcd7b4ddc08db97fc2bb0230c961de5764fdeca54951
+{'source_host': 'http://localhost:8080', 'prev_hash': '00007d623ac186de315e9f10c98a5e7960d64fa67a32b7d477ca77fec938ae09', 'timestamp': 1521795190.239726, 'data': '取引先との交渉は代理人経由ではなく、直接決裁権限を持つキーパーソンと実施する。', 'nonce': 6359985451}
+0000d340a2c4ecc81487544ea8a811802cbc614e4dd9ee248a9508642ef530cf
+{'source_host': 'http://localhost:8080', 'prev_hash': '00008be4a94e03489743bcd7b4ddc08db97fc2bb0230c961de5764fdeca54951', 'timestamp': 1521795192.700665, 'data': 'ミーティングをしたら(1)ToDo、(2)期限、(3)次回開催日を決めて議事録に記載、送付しよう。', 'nonce': 2896636093}
+0000a6b63088f57e551961df9233742b58c0bf9c14d3d38eede6927911cd4dd6
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000d340a2c4ecc81487544ea8a811802cbc614e4dd9ee248a9508642ef530cf', 'timestamp': 1521795195.158367, 'data': '社外の場合は定例ミーティング、社内の場合はキープアップミーティングを設定し、スピードアップしよう。', 'nonce': 8464457382}
+0000790af53d1bace0e0f8267195dd8d4c6b95e59762df6960807ff9423b09d7
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a6b63088f57e551961df9233742b58c0bf9c14d3d38eede6927911cd4dd6', 'timestamp': 1521795195.838858, 'data': 'コストの見直しは、一枚一枚の原始伝票から。精算表や集計数字に頼るな。', 'nonce': 8037883236}
+00000482b2e2c91ce4dadabcadd6881bb3389b53e29864a05f7e739ead19d287
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000790af53d1bace0e0f8267195dd8d4c6b95e59762df6960807ff9423b09d7', 'timestamp': 1521795196.419954, 'data': 'タイムマネージメント（優先順位）ノウハウを導入する。', 'nonce': 1532195054}
+000023f06fb835d8dac90ffd402bd3e3283658d65fd41cbf428ed4babecacfa1
+{'source_host': 'http://localhost:8080', 'prev_hash': '00000482b2e2c91ce4dadabcadd6881bb3389b53e29864a05f7e739ead19d287', 'timestamp': 1521795196.799139, 'data': '効率の良い方法をノウハウ化、ノウハウ集を共有しよう。', 'nonce': 1701511261}
+00001a87c789212c7e6e3d6261a596a121aa84816815f2ced2a4cdc9edd0a3d3
+{'source_host': 'http://localhost:8080', 'prev_hash': '000023f06fb835d8dac90ffd402bd3e3283658d65fd41cbf428ed4babecacfa1', 'timestamp': 1521795197.242042, 'data': 'グループに蓄積された経営ノウハウの活用が、成功への近道。「成功のバイブル」で秘訣を知ろう。', 'nonce': 9558976462}
+00004a83f199f76345096f46a164170d4c81f666cf698a3d28f7ab777ea201a6
+{'source_host': 'http://localhost:8080', 'prev_hash': '00001a87c789212c7e6e3d6261a596a121aa84816815f2ced2a4cdc9edd0a3d3', 'timestamp': 1521795197.378206, 'data': 'ゴミ拾い、イス揃え、デスクの上の整理整頓。小さなことこそみんなで行おう。', 'nonce': 2461382825}
+000017c9e4546e4668dc5376e4aa8a69e266d2ff8959c4fe49135f0592df7b6a
+{'source_host': 'http://localhost:8080', 'prev_hash': '00004a83f199f76345096f46a164170d4c81f666cf698a3d28f7ab777ea201a6', 'timestamp': 1521795197.419569, 'data': '【 可能性を信じよう 】', 'nonce': 2044915601}
+00002c865a24870861bd35b53d1c58bf2b8b36e3aad9f0ee6ecf66197152a964
+{'source_host': 'http://localhost:8080', 'prev_hash': '000017c9e4546e4668dc5376e4aa8a69e266d2ff8959c4fe49135f0592df7b6a', 'timestamp': 1521795200.995624, 'data': '変化を楽しもう。あなたは必ず変化する。人は気持ちで変化する。', 'nonce': 6813295258}
+0000e5bbbe697c0df62c9ccee7880cf4d2e4d78978048387a3b8e291eee42335
+{'source_host': 'http://localhost:8080', 'prev_hash': '00002c865a24870861bd35b53d1c58bf2b8b36e3aad9f0ee6ecf66197152a964', 'timestamp': 1521795204.629376, 'data': 'ファンを増やすためには、まず自らが好きになる。表現力を磨くこと。', 'nonce': 6092463468}
+00007f83d3b58d8c8c828bc5356ae981dd6b91bb606015313c96cb47b3a2088b
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000e5bbbe697c0df62c9ccee7880cf4d2e4d78978048387a3b8e291eee42335', 'timestamp': 1521795204.973795, 'data': '私たちには、自らが解決できる問題しか起こらない。今まで、私たちのところには100兆円の問題は起こったことが無い。私たちのところに起こる問題は、すべて「ちょっと努力が必要な」問題ばかりである。あなたに解決できない問題は、そもそもあなたには起こらない。', 'nonce': 7337735259}
+00001e0871bf6a0f0c8cac8170510332b5fb1a39a178bb1cd95b0e23af16aace
+{'source_host': 'http://localhost:8080', 'prev_hash': '00007f83d3b58d8c8c828bc5356ae981dd6b91bb606015313c96cb47b3a2088b', 'timestamp': 1521795205.427719, 'data': 'アイディアは組み合わせ。消しゴム付き鉛筆も歴史に残る大発明である。', 'nonce': 97709404}
+0000a1cda5595cf268c860934bc1121d0fa8fa6d826ca72aef725ada422725d6
+{'source_host': 'http://localhost:8080', 'prev_hash': '00001e0871bf6a0f0c8cac8170510332b5fb1a39a178bb1cd95b0e23af16aace', 'timestamp': 1521795206.960618, 'data': '【 魅力あるヒトになろう 】', 'nonce': 1674151608}
+00000e711e0b9f6e4ca7b03064228b64900e3bbe2a42e7c88a90832fae49922f
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a1cda5595cf268c860934bc1121d0fa8fa6d826ca72aef725ada422725d6', 'timestamp': 1521795208.876648, 'data': '数字は人気度（＝「笑顔」の数）です。ファンを作ること。', 'nonce': 7521389703}
+00007ad8481803b4b494d24cb84e6739e145e1caa29a0e831ef7dc9d9bd7ce00
+{'source_host': 'http://localhost:8080', 'prev_hash': '00000e711e0b9f6e4ca7b03064228b64900e3bbe2a42e7c88a90832fae49922f', 'timestamp': 1521795209.446098, 'data': '感情を表現しよう。泣こう、笑おう。すべてのことに感動しよう。', 'nonce': 3601537954}
+0000251802d68eebce63a21f4aa4ad71b23bbb52e4477e9cafec6870326afc37
+{'source_host': 'http://localhost:8080', 'prev_hash': '00007ad8481803b4b494d24cb84e6739e145e1caa29a0e831ef7dc9d9bd7ce00', 'timestamp': 1521795210.854966, 'data': '自分・チーム・会社・グループの目標達成に感動できるようになることが大切。', 'nonce': 9565341003}
+000057eee8780c1d7f5e04f1b82dfe77489f45bfb325a446449c8371b423f71f
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000251802d68eebce63a21f4aa4ad71b23bbb52e4477e9cafec6870326afc37', 'timestamp': 1521795212.492451, 'data': '目標達成した人には心から「おめでとう！」と声をかけよう。', 'nonce': 1996310217}
+00003cb9c2864247c91543b9ea3a6d4bf66c9ff44faa09b224739b37fa9eef6b
+{'source_host': 'http://localhost:8080', 'prev_hash': '000057eee8780c1d7f5e04f1b82dfe77489f45bfb325a446449c8371b423f71f', 'timestamp': 1521795212.53687, 'data': '礼儀を重んじよう。礼儀は形から入り心へ通じる。挨拶・言葉遣いを徹底する。', 'nonce': 5698080807}
+0000a3660d581b201020828e965026dac0e9bebad371dbb557c1e69d771bf1b6
+{'source_host': 'http://localhost:8080', 'prev_hash': '00003cb9c2864247c91543b9ea3a6d4bf66c9ff44faa09b224739b37fa9eef6b', 'timestamp': 1521795215.445174, 'data': 'このスピリットベンチャー宣言を共有し、グループ一丸となり、みんなで歴史を作ろう！', 'nonce': 6806988113}
+00009df8feb9ba10ef39f23ec36b1a0f21f35adf5f648b8274ab241c6089208e
+{'source_host': 'http://localhost:8080', 'prev_hash': '0000a3660d581b201020828e965026dac0e9bebad371dbb557c1e69d771bf1b6', 'timestamp': 1521795216.109692, 'data': '以上', 'nonce': 4224375084}
