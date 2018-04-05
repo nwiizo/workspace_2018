@@ -12,8 +12,8 @@ def _gen_block(arg):
   source_host, data, prev_hash = arg
 
   now = time.time()
-  loc = datetime.fromtimestamp(now)
-  timestamp = loc.timestamp()
+  tik = datetime.fromtimestamp(now)
+  timestamp = tik.timestamp()
  
   while True:
     nonce = random.randint(0, 10000000000)
