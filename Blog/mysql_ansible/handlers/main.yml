@@ -1,0 +1,4 @@
+- name: initialize schema_okaimono_db
+  mysql_db: >
+    name=infra_db login_host=127.0.0.1 login_user=root login_password=****
+    state=import target=/root/okaimono_db_ddl.sql

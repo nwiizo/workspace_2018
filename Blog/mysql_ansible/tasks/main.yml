@@ -1,0 +1,25 @@
+---
+- name: install mariadb server
+  yum: name={{ item }} state=present enablerepo=mariadb
+  with_items:
+    - MariaDB-devel
+    - MariaDB-client
+    - MariaDB-server
+    - MySQL-python
+
+- name: create schema_okaimono_db
+  template: src=root/{{ item }} dest=/root/{{ item }}
+  with_items:
+    - okaimono_db_ddl.sql
+  notify:
+    - initialize schema_okaimono_db
+
+- name: add db user
+  mysql_user: >
+    name={{ item.name }} host={{ item.subnet }} password={{ item.pass }} priv={{ item.schema }}:{{ item.auth }} append_privs=yes
+  with_items:
+    - { name: 'root', subnet: 'localhost', pass: '****', schema: '*.*' , auth: 'ALL' }
+    - { name: 'sample', subnet: 'localhost,172.22.0.0/255.255.0.0,127.0.0.1', pass: '****', schema: 'temoto.*' , auth: 'ALL' }
+    - { name: 'sample', subnet: 'localhost,172.22.0.0/255.255.0.0,127.0.0.1', pass: '****', schema: 'kago.*' , auth: 'ALL' }
+    - { name: 'sample', subnet: 'localhost,172.22.0.0/255.255.0.0,127.0.0.1', pass: '****', schema: 'saihu.*' , auth: 'ALL' }
+    - { name: 'api', subnet: 'localhost,127.0.0.1', pass: '****', schema: 'temoto.*' , auth: 'SELECT,INSERT,UPDATE,DELETE' }
