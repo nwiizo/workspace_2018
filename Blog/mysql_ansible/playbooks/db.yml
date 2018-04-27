@@ -1,0 +1,5 @@
+---
+- hosts: db-servers
+    remote_user: root
+  role:
+    - .
