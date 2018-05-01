@@ -1,0 +1,16 @@
+{
+  "listeners": {
+    "*:80": {
+      "application": "my-site"
+    }
+  },
+
+  "applications": {
+    "my-site": {
+      "type": "php",
+      "processes": 20,
+      "root": "/var/www/html/",
+      "index": "index.php"
+    }
+  }
+}
