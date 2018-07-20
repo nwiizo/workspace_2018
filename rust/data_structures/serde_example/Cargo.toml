@@ -1,0 +1,9 @@
+[package]
+name = "serde_example"
+version = "0.1.0"
+authors = ["nwiizo <syu.m.5151@gmail.com>"]
+
+[dependencies]
+serde="*"
+serde_json="*"
+serde_derive="*"
