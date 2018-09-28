@@ -1,0 +1,10 @@
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task
+echo -n "" | faas-cli invoke long-task

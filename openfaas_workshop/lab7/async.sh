@@ -1,0 +1,11 @@
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
+echo -n "" | faas-cli invoke long-task --async
