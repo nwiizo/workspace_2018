@@ -1,3 +1,4 @@
+```
     1  apt-get update
     2* 
     3  apt-get upgrade 
@@ -128,3 +129,4 @@ monkey'| faas-cli invoke sorter
   244  while [ true ]; do curl -X POST http://127.0.0.1:8080/function/nodeinfo; done;
   245  docker service ps nodeinfo
   265  cp -r * /tmp/workspace_2018/openfaas_workshop/
+```
