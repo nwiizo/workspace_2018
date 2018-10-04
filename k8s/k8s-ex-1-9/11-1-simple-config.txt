@@ -1,0 +1,3 @@
+# アプリケーションの設定に使用する設定ファイルのサンプル
+parameter1 = value1
+parameter2 = value2

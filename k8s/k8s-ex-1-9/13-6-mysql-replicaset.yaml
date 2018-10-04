@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: mysql
+  # ServiceをこのPodに割り当てるためのLabel
+  labels:
+    app: mysql
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mysql
+  template:
+    metadata:
+      labels:
+        app: mysql
+    spec:
+      containers:
+      - name: database
+        image: mysql
+        resources:
+          requests:
+            cpu: 1
+            memory: 2Gi
+        env:
+        # セキュリティ的には環境変数を使うのはベストプラクティスとは言えませんが、
+        # 分かりやすさを優先しています。
+        # よりよい方法が何かは11章を見て下さい。
+        - name: MYSQL_ROOT_PASSWORD
+          value: some-password-here
+        livenessProbe:
+          tcpSocket:
+            port: 3306
+        ports:
+        - containerPort: 3306
+        volumeMounts:
+          - name: database
+            # /var/lib/mysql は、MySQLがデータベース自体を置く場所
+            mountPath: "/var/lib/mysql"
+      volumes:
+      - name: database
+        persistentVolumeClaim:
+          claimName: database
