@@ -1,8 +1,7 @@
 [package]
-name = "mysql-test-test"
+name = "mysql-test"
 version = "0.1.0"
 authors = ["smotouchi <shuya-motouchi@gmo.jp>"]
 
-
-[dependencies.mysql]
-git = "https://github.com/blackbeam/rust-mysql-simple"
+[dependencies]
+mysql = "*"
