@@ -1,0 +1,14 @@
+servers:
+  - name: php_config
+    server_info:
+        server_ip: 10.0.0.1
+        server_port: 10022
+    setting_dir:
+        - /etc/nginx/
+        - /etc/http/
+  - name: sample
+    server_info:
+        server_ip: 127.0.0.1
+        server_port: 22
+    setting_dir:
+        - /etc/postfix
